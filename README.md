@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with [Minalist Budget](https://github.com/ChristopherHarwell/minimalist_budget_frontend/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
-- 📫 How to reach me: 
+- 📫 How to reach me: Twitter or LinkedIn 
 
 
 | Platform | Link |
