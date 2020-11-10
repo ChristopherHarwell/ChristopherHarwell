@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
 - 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/christopher-e-harwell/) 
-[Twitter](https://twitter.com/_ChrisHarwell_)
+| Platform | Link |
+| ----------- | ----------- |
+| Twitter | [Twitter](https://twitter.com/_ChrisHarwell_) |
+| LinkedIn | [LinkedIn](https://www.linkedin.com/in/christopher-e-harwell/)  | 
+
+
  <!-- - 💬 Ask me about ... -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
