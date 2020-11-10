@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<!--
-**ChristopherHarwell/ChristopherHarwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My name is Christopher Harwell, I'm a fullstack engineer. I'm passionate about building products that can help people have better lives.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/story-squad-be-e)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
