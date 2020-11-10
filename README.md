@@ -5,10 +5,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/story-squad-be-e)
 - 🌱 I’m currently learning TypeScript
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with [Minalist Budget](https://github.com/ChristopherHarwell/minimalist_budget_frontend/)
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: -->
+<!-- - 👯 I’m looking to collaborate on ... -->
 
