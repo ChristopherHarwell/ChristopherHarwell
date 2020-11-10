@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 | Platform | Link |
 | ----------- | ----------- |
-| Twitter | [Twitter](https://twitter.com/_ChrisHarwell_) |
-| LinkedIn | [LinkedIn](https://www.linkedin.com/in/christopher-e-harwell/)  | 
+| Twitter | [@_ChrisHarwell_](https://twitter.com/_ChrisHarwell_) |
+| LinkedIn | [Christopher Harwell](https://www.linkedin.com/in/christopher-e-harwell/)  | 
 
 
  <!-- - 💬 Ask me about ... -->
