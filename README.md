@@ -8,7 +8,7 @@ My name is Christopher Harwell, I'm a fullstack engineer. I'm passionate about b
 Here are some ideas to get you started:
 
 - 💻 I'm currently working as a fullstack engineer
-- 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, SQLite3, and PostgreSQL
+- 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript, Jest,  SQLite3, and PostgreSQL
 - 🔭 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/story-squad-be-e)
 - 🌱 I’m currently learning TypeScript
 - 🤔 I’m looking for help with [Minalist Budget](https://github.com/ChristopherHarwell/minimalist_budget_frontend/)
