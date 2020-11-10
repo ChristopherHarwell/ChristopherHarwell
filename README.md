@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Superman didn't always fly.
 - 📫 How to reach me: 
 <a><img src="https://img.shields.io/twitter/url?label=_ChrisHarwell_&style=social&url=https%3A%2F%2Ftwitter.com%2F_ChrisHarwell_"></a>
-<a><img src="https://img.shields.io/linkedin/url?label=Christopher Harwell&style=social&url=https://www.linkedin.com/in/christopher-e-harwell/"></a>
  <!-- - 💬 Ask me about ... -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
