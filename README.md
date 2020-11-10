@@ -1,5 +1,8 @@
 ### Hi there 👋
-<a> <img src="https://img.shields.io/badge/-NodeJS-success"> </a> <a> <img src="https://img.shields.io/badge/-TypeScript-informational"> </a>
+<a> <img src="https://img.shields.io/badge/Backend-NodeJS-success"> </a>
+<a><img src="https://img.shields.io/badge/Database-PostgreSQL-9cf"></a>
+<a> <img src="https://img.shields.io/badge/Langauge-TypeScript-informational"></a>
+<a><img src="https://img.shields.io/badge/Frontend-React-informational"></a>
 
 My name is Christopher Harwell, I'm a fullstack engineer. I'm passionate about building products that can help people have better lives.
 Here are some ideas to get you started:
