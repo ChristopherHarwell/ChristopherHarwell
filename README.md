@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 - 💻 I'm currently working as a fullstack engineer
 - 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript, Jest,  SQLite3, and PostgreSQL
-- 🔭 I’m currently working on [Story Squad](https://github.com/Lambda-School-Labs/story-squad-be-e)
+- 🔭 I’m currently working on [Story Squad](https://github.com/ss-mvp/backend)
 - 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with [Minimalist Budget](https://github.com/ChristopherHarwell/minimalist_budget_frontend/)
+<!-- - 🤔 I’m looking for help with [Minimalist Budget](https://github.com/ChristopherHarwell/minimalist_budget_frontend/) -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
 - 📫 How to reach me: Twitter or LinkedIn 
