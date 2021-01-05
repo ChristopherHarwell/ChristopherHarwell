@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript, Jest,  SQLite3, and PostgreSQL
 - 🔭 I’m currently working on [Story Squad](https://github.com/ss-mvp/backend)
 - 🌱 I’m currently learning TypeScript
-<!-- - 🤔 I’m looking for help with [Minimalist Budget](https://github.com/ChristopherHarwell/minimalist_budget_frontend/) -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
 - 📫 How to reach me: Twitter or LinkedIn 
@@ -24,6 +23,6 @@ Here are some ideas to get you started:
 
 
  <!-- - 💬 Ask me about ... -->
-
+<!-- - 🤔 I’m looking for help with [Minimalist Budget](https://github.com/ChristopherHarwell/minimalist_budget_frontend/) -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 
