@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 💻 I'm currently working as a fullstack engineer
 - 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript, Jest,  SQLite3, and PostgreSQL
-- 🔭 I’m currently working on [Story Squad](https://github.com/ss-mvp/backend)
+- 🔭 I’m currently working on [Family Promise of Spokane Rental Assistance Program](https://family-promise-rap.vercel.app/)
 - 🌱 I’m currently learning TypeScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
