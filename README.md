@@ -4,7 +4,7 @@
 <a><img src="https://img.shields.io/badge/Langauge-TypeScript-informational"></a>
 <a><img src="https://img.shields.io/badge/Frontend-React-informational"></a>
 ### Hi there 👋
-My name is Christopher Harwell, I'm a fullstack engineer. I'm passionate about building products that can help people have better lives.
+My name is Christopher Harwell, I'm a fullstack software engineer. I'm passionate about building products that can help people have better lives.
 Here are some ideas to get you started:
 
 - 💻 I'm currently working as a fullstack engineer
