@@ -5,12 +5,12 @@
 <a><img src="https://img.shields.io/badge/Frontend-React-informational"></a>
 ### Hi there 👋
 My name is Christopher Harwell, I'm a fullstack software engineer. I'm passionate about building products that can help people have better lives.
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 💻 I'm currently working as a fullstack engineer
-- 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript, Jest,  SQLite3, and PostgreSQL
+- 💻 I'm currently working as a Full-Time Software Engineer @Everykey and Part-Time Software Engineer @BoxCast 
+- 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript and database design
 - 🔭 I’m currently working on [Family Promise of Spokane Rental Assistance Program](https://family-promise-rap.vercel.app/)
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Vue
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
 - 📫 How to reach me: Twitter or LinkedIn 
