@@ -9,7 +9,7 @@ My name is Christopher Harwell, I'm a fullstack software engineer. I'm passionat
 
 - 💻 I'm currently working as a Full-Time Software Engineer @Everykey and Part-Time Software Engineer @BoxCast 
 - 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript and database design
-- 🔭 I’m currently working on [Family Promise of Spokane Rental Assistance Program](https://family-promise-rap.vercel.app/)
+- 🔭 I’m currently working on [My Project Portfolio](https://github.com/ChristopherHarwell/project-portfolio-site-2.0)
 - 🌱 I’m currently learning Angular and C#
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
