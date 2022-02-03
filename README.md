@@ -8,7 +8,7 @@ My name is Christopher Harwell, I'm a fullstack software engineer. I'm passionat
 <!-- Here are some ideas to get you started: -->
 
 - 💻 I'm currently working as a Technical Consultant @Robert Half and Part-Time Software Engineer @BoxCast 
-- 🔨 Some tools I'm very skilled in, include NodeJS, ReactJS, TypeScript and database design
+- 🔨 Some tools I'm very skilled in, include NodeJS, C#, .NET, ReactJS, Angular, Vue, TypeScript, MongoDB, and various SQL databases
 - 🔭 I’m currently working on [My Project Portfolio](https://github.com/ChristopherHarwell/project-portfolio-site-2.0)
 - 🌱 I’m currently learning Angular and C#
 - 😄 Pronouns: He/Him
