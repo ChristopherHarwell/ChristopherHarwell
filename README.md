@@ -10,7 +10,7 @@ My name is Christopher Harwell, I'm a fullstack software engineer. I'm passionat
 - 💻 I'm currently working as a Technical Consultant @Robert Half and Part-Time Software Engineer @BoxCast 
 - 🔨 Some tools I'm very skilled in, include NodeJS, C#, .NET, ReactJS, Angular, Vue, TypeScript, MongoDB, and various SQL databases
 - 🔭 I’m currently working on [My Project Portfolio](https://github.com/ChristopherHarwell/project-portfolio-site-2.0)
-- 🌱 I’m currently learning Systems Design using HDL, x86 Assembly and C
+- 🌱 I’m currently learning Systems Design using HDL, x86 Assembly and C as well as Blockchain Development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Superman didn't always fly.
 - 📫 How to reach me: Twitter or LinkedIn 
