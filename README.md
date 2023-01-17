@@ -1,8 +1,14 @@
 
 <a><img src="https://img.shields.io/badge/Backend-NodeJS-success"></a>
+<a><img src="https://img.shields.io/badge/Backend-C%23-success"></a>
+<a><img src="https://img.shields.io/badge/Backend-.NET-success"></a>
 <a><img src="https://img.shields.io/badge/Database-PostgreSQL-9cf"></a>
+<a><img src="https://img.shields.io/badge/Database-SQLServer-9cf"></a>
+<a><img src="https://img.shields.io/badge/Database-Firebase-9cf"></a>
 <a><img src="https://img.shields.io/badge/Langauge-TypeScript-informational"></a>
 <a><img src="https://img.shields.io/badge/Frontend-React-informational"></a>
+<a><img src="https://img.shields.io/badge/Frontend-Angular-informational"></a>
+
 ### Hi there 👋
 My name is Christopher Harwell, I'm a fullstack software engineer. I'm passionate about building products that can help people have better lives.
 <!-- Here are some ideas to get you started: -->
